@@ -104,6 +104,10 @@ html, body {
 
   .logo {
     margin-bottom: $logo-margin;
+    margin-left: $logo-margin-left-right;
+    margin-right: $logo-margin-left-right;
+    margin-top: $logo-margin-top;
+    width: 200px;
   }
 
   .search-results {
