@@ -1,1 +1,1 @@
-web: bundle exec middleman
+web: bundle exec puma -C config.rb
