@@ -49,7 +49,7 @@ client_id | true | Unic client id provided by wefox
 You must replace <code><<TOKEN>></code> with your personal API key.
 </aside>
 
-# Offers
+# Real time Offer API
 
 ## Get Offers
 
@@ -170,21 +170,21 @@ Parameter | Description
 --------- | -----------
 ID | The ID of the offer to delete
 
-# Digitalization
+# Real time Digitalization API
 
 ## Update Contract
 
-# Claims
+# Real time Claims API
 
 ## Get Claims List
 
 ## Update Claim
 
-# Payments
+# Real time Payments API
 
 ## Issue customer payment
 
-# Master data
+# Real time Master Data API
 
 ## Contract change
 
