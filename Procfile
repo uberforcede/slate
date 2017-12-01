@@ -1,1 +1,1 @@
-web: bundle exec middleman build --clean && rackup
+web: rackup
